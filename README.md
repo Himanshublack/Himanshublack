@@ -8,7 +8,7 @@
     <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://github.com/Himanshublack">About Me</a>
   </p>
 </p>
 
