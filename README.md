@@ -1,24 +1,18 @@
-Himanshu Singh - AI Engineer Enthusiast
-Welcome to my GitHub repository! I'm Himanshu Singh, a passionate AI engineer enthusiast, and this is where I share my projects, experiments, and learnings in the field of artificial intelligence.
+<h1 align="center">Hi 👋, I'm Himanshu singh</h1>
+<h3 align="center">A passionate AI/ML developer from India</h3>
 
-About Me
-I'm deeply fascinated by the world of AI and its potential to transform industries and improve lives. My journey in this field has been an exciting one, filled with constant exploration and discovery. I believe in the power of collaboration and open knowledge sharing, which is why I'm excited to showcase my work here on GitHub.
+- 🌱 I’m currently learning **AI/ML**
 
-Connect with me on LinkedIn to stay updated on my professional journey and AI endeavors.
+- 📫 How to reach me **himanshfication@hotmail.com**
 
-Social Media
-You can also find me on social media platforms where I share insights, articles, and thoughts related to AI, machine learning, and technology:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/himanshfication" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshfication" height="30" width="40" /></a>
+<a href="https://kaggle.com/himanshublack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshublack" height="30" width="40" /></a>
+<a href="https://instagram.com/theycallmethakurboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theycallmethakurboy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/himanshblack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshblack" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/himanshublack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshublack" height="30" width="40" /></a>
+</p>
 
-
-Instagram: @theycallmethakurboy
-
-Projects
-Here are some of the projects you'll find in this repository:
-
-AI-Powered Image Recognition: A deep learning project that uses convolutional neural networks to accurately classify objects in images.
-Chatbot for Customer Support: An NLP-based chatbot trained to assist users with common queries, enhancing customer support experiences.
-
-Contact
-I'm excited to connect with fellow AI enthusiasts, researchers, and professionals. Feel free to reach out to me via email at himanshu.ai.engineer@example.com.
-
-Let's embark on this AI journey together!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
